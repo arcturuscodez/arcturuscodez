@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋🏻
 
-<!--
-**arcturuscodez/arcturuscodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sonny, and I am interested in all things Python & Data Science (with a healthy slice of SQL)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about reinforcement learning algorithms and their applications in algorithmic trading and portfolio optimization.
+- 🤔 I’m looking for work! Specifically, I am interested in roles related to data science, IT, or software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Current Projects
+- Developing [NovusEdge](https://github.com/arcturuscodez/NovusEdge), a comprehensive investment management software for Bearhouse Capital.
+- Developing machine learning models for predictive analytics in finance.
+
+## 🔭 Previous Experience
+- Developed software [SCS](https://github.com/arcturuscodez/Spectral-Calibration-Software) to process and calibrate spectral data, specifically astrophysical maser emission data.
